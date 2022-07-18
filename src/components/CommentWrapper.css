@@ -1,0 +1,27 @@
+.comment {
+  background-color: blueviolet;
+  margin-top: 100px;
+  border-radius: 5px;
+  border: 2px solid;
+}
+.comment-wrapper {
+  width: 400px;
+  text-align: center;
+  color: brown;
+  
+}
+.user-infoo {
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin-bottom: 100px;
+  
+}
+.kitty {
+  width: 200px;
+  
+}
+.avatar {
+  font-size: 40px;
+  
+}
